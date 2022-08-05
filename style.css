@@ -151,6 +151,7 @@ h4 {
   grid-row: 1 / span 4;
   transform: translateY(-10rem);
   border-radius: 50%;
+  padding-left: -50px;
 }
 
 .highlight {
